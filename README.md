@@ -5,7 +5,7 @@ Installation Steps:
 1. Install AutoHotKey - https://www.autohotkey.com/
 2. Install the "Apex Windows Stopper.ahk" script
 3. Move the file to "%AppData%\Microsoft\Windows\Start Menu\Programs\Startup"
- For instant Application:
+For instant Application:
   1. Right click the script file
   2. Select "Run script"
 
